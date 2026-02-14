@@ -1,8 +1,13 @@
 Assignment 1
+
 Learn Probability Density Functions using Roll-Number-Parameterized Non-Linear Model
+
 Name: Akshita
+
 Roll Number: 102303531
+
 📌 Objective
+
 The objective of this assignment is to learn Probability Density Functions (PDFs) by applying a roll-number-parameterized non-linear transformation to real-world air quality data and estimating the parameters of a Gaussian distribution.
 
 📊 Dataset
